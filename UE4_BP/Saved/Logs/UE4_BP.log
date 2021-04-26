@@ -818,3 +818,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.26-14.35.51:647][485]LogSavePackage: Moving '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Saved/Minimal_Default06A70AE0461AA868898776A544E68A29.tmp' to '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.04.26-14.35.51:664][485]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.04.26-14.35.51:664][485]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.26-14.45.09:721][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair2)
+[2021.04.26-14.45.14:756][633]Cmd: EDIT COPY
+[2021.04.26-14.45.15:306][666]Cmd: EDIT PASTE
+[2021.04.26-14.45.17:096][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.26-14.45.17:110][772]LogSavePackage: Moving '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Saved/Minimal_Default0598F4554E864C1813C3D89EE05E5CCC.tmp' to '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.26-14.45.17:121][772]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.04.26-14.45.17:121][772]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
