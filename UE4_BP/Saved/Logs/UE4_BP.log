@@ -825,3 +825,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.26-14.45.17:110][772]LogSavePackage: Moving '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Saved/Minimal_Default0598F4554E864C1813C3D89EE05E5CCC.tmp' to '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.04.26-14.45.17:121][772]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.04.26-14.45.17:121][772]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.26-17.22.32:133][494]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.26-17.22.32:240][494]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-17.22.32:240][494]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-17.28.27:891][530]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.26-17.28.28:025][530]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-17.28.28:025][530]LogAudioMixer: Display: 1: FrontRight
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B31F07A32-4586-836B-8C5D-E6AD9973F224%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=e925ad354b2530d17bc4bc88eaff3237%7Ca3f40cdbac054d16b66a4d1e85bae2b6%7C599bca67-2ffd-4c71-81d2-b277200d3a82&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x201e06dbeb0 [can pipeline])
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.114.53) port 443 (#0))
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.04.26-17.28.28:395][531]LogHttp: Warning: 00000201996DD600: libcurl info message cache 7 (Closing connection 0)
+[2021.04.26-17.28.28:411][532]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B31F07A32-4586-836B-8C5D-E6AD9973F224%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=e925ad354b2530d17bc4bc88eaff3237%7Ca3f40cdbac054d16b66a4d1e85bae2b6%7C599bca67-2ffd-4c71-81d2-b277200d3a82&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.26-17.28.31:437][540]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.26-17.28.31:524][540]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.26-17.28.31:524][540]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-07.45.13:831][589]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.27-07.45.15:187][589]LogAudioMixer: Resetting audio stream to device id 
+[2021.04.27-07.45.15:341][589]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.27-07.45.15:341][589]LogAudioMixer: Display: 1: FrontRight
+[2021.04.27-07.45.16:054][590]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.04.27-07.45.16:055][590]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.04.27-07.45.16:055][590]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.04.27-07.45.16:091][590]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.27-07.45.16:100][591]LogHttp: Warning: 0000020199549600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B31F07A32-4586-836B-8C5D-E6AD9973F224%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=e925ad354b2530d17bc4bc88eaff3237%7Ca3f40cdbac054d16b66a4d1e85bae2b6%7C599bca67-2ffd-4c71-81d2-b277200d3a82&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.04.27-07.45.16:101][591]LogHttp: Warning: 0000020199549600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.04.27-07.45.16:101][591]LogHttp: Warning: 0000020199549600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.04.27-07.45.16:101][591]LogHttp: Warning: 0000020199549600: libcurl info message cache 1 (Closing connection 1)
+[2021.04.27-07.45.16:427][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B31F07A32-4586-836B-8C5D-E6AD9973F224%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=e925ad354b2530d17bc4bc88eaff3237%7Ca3f40cdbac054d16b66a4d1e85bae2b6%7C599bca67-2ffd-4c71-81d2-b277200d3a82&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.04.27-07.45.17:268][594]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.04.27-07.45.17:268][594]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.04.27-07.45.17:268][594]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.04.27-07.45.17:424][594]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.04.27-07.45.19:281][600]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2021.04.27-07.45.19:281][600]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2021.04.27-07.45.19:281][600]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2021.04.27-07.45.19:423][600]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
