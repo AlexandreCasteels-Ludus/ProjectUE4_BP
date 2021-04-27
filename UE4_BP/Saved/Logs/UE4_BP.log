@@ -876,3 +876,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.27-08.03.18:427][532]LogSavePackage: Moving '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Saved/Minimal_Default64D5C6B448D0CF4920E9E28BA8C1FF6A.tmp' to '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.04.27-08.03.18:440][532]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.04.27-08.03.18:440][532]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.27-08.05.09:202][519]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-08.05.09:772][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.27-08.05.09:785][552]LogSavePackage: Moving '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Saved/Minimal_DefaultC5B2F52C44ED47A97BCD0EA36A42D5F3.tmp' to '../../../../../../Users/lawba/Documents/GitHub/ProjectUE4_BP/UE4_BP/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.04.27-08.05.09:796][552]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.04.27-08.05.09:796][552]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.04.27-08.06.52:039][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.04.27-08.06.56:674][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair3)
+[2021.04.27-08.06.59:193][264]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
